@@ -10,4 +10,4 @@ A full-stack e-commerce system with a React frontend and Azure-backed ASP.NET Co
 
 - 📫 How to reach me: ...
   - GitHub: @mjcs99
-  - LinkedIn: your-link
+  - LinkedIn: [your-link](https://www.linkedin.com/in/maurius-kritzinger-53021430a/)
