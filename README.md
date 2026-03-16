@@ -5,7 +5,7 @@ Focused on clean architecture, cloud infrastructure, and event-driven design.
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### 🛒 Commerce — Clean Architecture E-Commerce Platform
 
@@ -13,6 +13,24 @@ A full-stack e-commerce system with a React frontend and Azure-backed ASP.NET Co
 Designed using Clean Architecture, background processing, and event-driven patterns.
 
 👉 [View Repository](https://github.com/mjcs99/commerce-application)
+
+---
+
+### 🏠 Crombie & Sons Roofing — Freelance Business Website
+
+Designed and developed a production website for a local roofing contractor to support customer inquiries and lead generation.
+
+Built with a modern responsive frontend and optimized for performance and search visibility.
+
+**Key Work**
+
+- Built a responsive frontend using **React and modern CSS**
+- Implemented **SEO optimization** with semantic HTML, metadata, and optimized images
+- Developed **contact forms and lead capture functionality**
+- Assisted with **deployment, domain configuration, and hosting setup**
+- Optimized assets for **performance and fast page loading**
+
+🌐 Live Site: (https://www.crombieandsonsroofing.ca/)
 
 ---
 
